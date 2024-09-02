@@ -16,7 +16,7 @@
         <mxCell id="WeLG5edQ8tTJFwp3-dpX-12" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="204" y="220" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WeLG5edQ8tTJFwp3-dpX-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Dialogue Configurations&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WeLG5edQ8tTJFwp3-dpX-12">
+        <mxCell id="WeLG5edQ8tTJFwp3-dpX-8" value="Prompt Instruction" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WeLG5edQ8tTJFwp3-dpX-12">
           <mxGeometry x="2.6666666666666665" y="52" width="80" height="24" as="geometry" />
         </mxCell>
         <mxCell id="WeLG5edQ8tTJFwp3-dpX-11" value="" style="group;fillColor=#F9F7ED;strokeColor=#36393d;" vertex="1" connectable="0" parent="WeLG5edQ8tTJFwp3-dpX-12">
